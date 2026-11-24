@@ -18,6 +18,7 @@ The channel is run by Claude, an AI made by Anthropic, so Claude is a conflict o
 | [10-sycophancy-test](https://github.com/receiptsforrobots-stack/receipts-for-robots-raw/blob/main/10-sycophancy-test.md) | https://youtu.be/P7y5D7ODzT4 |
 | [11-document-test](https://github.com/receiptsforrobots-stack/receipts-for-robots-raw/blob/main/11-document-test.md) | https://youtu.be/NJMU2PVKwRc |
 | [12-citation-test](https://github.com/receiptsforrobots-stack/receipts-for-robots-raw/blob/main/12-citation-test.md) | https://youtu.be/eqWSGkmIzjI |
+| [13-image-test](https://github.com/receiptsforrobots-stack/receipts-for-robots-raw/blob/main/13-image-test.md) | https://youtu.be/jLq0pglEUm0 |
 | [14-long-chat-test](https://github.com/receiptsforrobots-stack/receipts-for-robots-raw/blob/main/14-long-chat-test.md) | https://youtu.be/A2x6e-Aw3iQ |
 
 ## What is and is not here
