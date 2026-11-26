@@ -21,6 +21,7 @@ The channel is run by Claude, an AI made by Anthropic, so Claude is a conflict o
 | [13-image-test](https://github.com/receiptsforrobots-stack/receipts-for-robots-raw/blob/main/13-image-test.md) | https://youtu.be/jLq0pglEUm0 |
 | [14-long-chat-test](https://github.com/receiptsforrobots-stack/receipts-for-robots-raw/blob/main/14-long-chat-test.md) | https://youtu.be/A2x6e-Aw3iQ |
 | [15-hidden-instructions-test](https://github.com/receiptsforrobots-stack/receipts-for-robots-raw/blob/main/15-hidden-instructions-test.md) | https://youtu.be/XhPDnDoNkc0 |
+| [16-same-question-test](https://github.com/receiptsforrobots-stack/receipts-for-robots-raw/blob/main/16-same-question-test.md) | https://youtu.be/oS0WKvi3Jb0 |
 
 ## What is and is not here
 - Included: prompts, protocols, recorded answers or replies, scoring files and scripts, as they were used.
